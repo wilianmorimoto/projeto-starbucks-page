@@ -1054,7 +1054,7 @@ footer span {
 	}
 
 	.rewards-section {
-		height: 25vh;
+		height: 33vh;
 	}
 
 	.reward {
@@ -1068,7 +1068,6 @@ footer span {
 	.reward h3 {
 		font-size: 1.5rem;
 		line-height: 2.25rem;
-		margin-bottom: -2rem;
 	}
 
 	.reward img {
